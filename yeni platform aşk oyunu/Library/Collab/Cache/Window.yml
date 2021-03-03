@@ -14,11 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Animation/mainplayer.controller
+    - Assets/Animation/player_death.anim
     - Assets/scripts/MainCharacterPos.cs
     - Assets/scripts/NewBehaviourScript.cs
     - Assets/scripts/NewBehaviourScript.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
     - 
-    m_Values: 00000000
+    m_Values: 0000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
