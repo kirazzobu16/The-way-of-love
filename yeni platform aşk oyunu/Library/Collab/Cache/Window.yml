@@ -13,8 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - Assets/scripts/MainCharacterPos.cs
+    - Assets/scripts/NewBehaviourScript.cs
+    - Assets/scripts/NewBehaviourScript.cs.meta
+    - 
+    m_Values: 00000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

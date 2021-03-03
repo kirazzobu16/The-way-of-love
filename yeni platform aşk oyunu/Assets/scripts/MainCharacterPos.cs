@@ -5,7 +5,7 @@ public class MainCharacterPos : MonoBehaviour
 {
     private GameMaster gm;
     Animator animator;
-    public GameObject olum;
+    
     void Start()
     {
 
@@ -27,12 +27,15 @@ public class MainCharacterPos : MonoBehaviour
 
         if (other.tag == "dead")
         {
-
+            animator.SetBool("IsDead", true);
             // GetComponent<player>().enabled = false;
+
+            
+                
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
         }
 
     }
-    
+  
 }
