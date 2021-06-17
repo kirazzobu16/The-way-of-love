@@ -21,10 +21,11 @@ MonoBehaviour:
     - Assets/scripts/MainCharacterPos.cs
     - Assets/scripts/NewBehaviourScript.cs
     - Assets/scripts/NewBehaviourScript.cs.meta
+    - Assets/sprites/tileset/palettes/ground/ground tileset.psd.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
     - 
-    m_Values: 00000000000000000000
+    m_Values: 0000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
